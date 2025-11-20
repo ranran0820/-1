@@ -17,8 +17,8 @@ from datetime import datetime
 from DrissionPage import ChromiumPage, ChromiumOptions
 
 # 配置参数
-TEL_NUMBER = '15005118976'
-TEL_NAME = '张宇'
+TEL_NUMBER = '17362817302'
+TEL_NAME = '唐诗雨'
 
 # 进度文件
 PROGRESS_FILE = 'progress.json'
